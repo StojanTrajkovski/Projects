@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="ourbeloved" exec="joy_processor_node" />
+    <node pkg="ourbeloved" exec="robot_driver_node" />
+</launch>
